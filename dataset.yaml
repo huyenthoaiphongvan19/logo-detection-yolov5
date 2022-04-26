@@ -1,0 +1,9 @@
+# train and val data
+train: ../dataset/dataset/images/train/
+val: ../dataset/dataset/images/val/
+
+# number of classes
+nc: 2
+
+# class names
+names: ['amazon','google']
